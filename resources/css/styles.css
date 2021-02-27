@@ -150,4 +150,15 @@ nav ul li a {
 	display: flex;
 	flex-flow: column;
 	justify-content: space-between;
+	margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+	background-color: #6930c3;
+	color: #64dfdf;
+}
+
+footer h4 {
+	padding: 1rem;
 }
